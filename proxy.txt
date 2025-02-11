@@ -1,0 +1,11 @@
+payload:
+  - 'metacubex.one'
+  - 'hysteria.network'
+  - 'docker.io'
+  - 'telegram.org'
+  - 'dockerhub.io'
+  - 'asmr.one'
+  - 'docker.com'
+  - 'cdn.jsdelivr.net'
+  - 'assets.fanart.tv'
+  

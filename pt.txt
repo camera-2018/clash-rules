@@ -1,0 +1,7 @@
+payload:
+  - 'audiences.me'
+  - 'kamept.com'
+  - 'kp.m-team.cc'
+  - 'pthome.net'
+  - 'u2.dmhy.org'
+  - 'zhuque.in'

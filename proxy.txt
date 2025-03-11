@@ -6,6 +6,7 @@ payload:
   - '+.dockerhub.io'
   - '+.asmr.one'
   - '+.docker.com'
+  - '+.dify.ai'
   - 'cdn.jsdelivr.net'
   - 'assets.fanart.tv'
   

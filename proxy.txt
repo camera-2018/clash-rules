@@ -9,4 +9,6 @@ payload:
   - '+.dify.ai'
   - 'cdn.jsdelivr.net'
   - 'assets.fanart.tv'
+  - 'bsky.social'
+  - 'bsky.app'
   

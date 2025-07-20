@@ -12,4 +12,7 @@ payload:
   - '+.bsky.social'
   - '+.bsky.app'
   - '+.greasyfork.org'
-  
+  - '+.yuzuchan.xyz'
+  - '+.diving-fish.com'
+  - '+.yuzuchan.moe'
+  - 'openaipublic.blob.core.windows.net'

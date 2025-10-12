@@ -18,3 +18,4 @@ payload:
   - 'openaipublic.blob.core.windows.net'
   - '+.doubanio.com'
   - '+.fanart.tv'
+  - '+.hltv.org'

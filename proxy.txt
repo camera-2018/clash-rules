@@ -16,3 +16,5 @@ payload:
   - '+.diving-fish.com'
   - '+.yuzuchan.moe'
   - 'openaipublic.blob.core.windows.net'
+  - '+.doubanio.com'
+  - '+.fanart.tv'

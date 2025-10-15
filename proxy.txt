@@ -19,3 +19,4 @@ payload:
   - '+.doubanio.com'
   - '+.fanart.tv'
   - '+.hltv.org'
+  - '+.mb3admin.com'

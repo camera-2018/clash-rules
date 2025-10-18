@@ -20,3 +20,4 @@ payload:
   - '+.fanart.tv'
   - '+.hltv.org'
   - '+.mb3admin.com'
+  - '+.api.themoviedb.org'

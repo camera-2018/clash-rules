@@ -21,3 +21,4 @@ payload:
   - '+.hltv.org'
   - '+.mb3admin.com'
   - '+.api.themoviedb.org'
+  - '+.models.dev'
